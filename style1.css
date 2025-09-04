@@ -1,0 +1,86 @@
+.atas {
+    width: 100%;
+    height: 40px;
+    background-color: black;
+    float: inline-start;
+}
+
+.caraousel {
+    width: 100%;
+    height: 300px;
+    background-color: rgb(37, 151, 113);
+    float: left;
+}
+
+.footer {
+    width: 100%;
+    height: 100px;
+    background-color: black;
+    justify-content: end;
+    float: inline-end;
+}
+
+.kiri {
+    width: 20%;
+    height: 400px;
+    background-color: bisque;
+    float: left;
+}
+
+.tengah {
+    width: 60%;
+    height: 400px;
+    background-color: aquamarine;
+    float: left;
+}
+
+.kanan {
+    width: 20%;
+    height: 400px;
+    background-color: bisque;
+    float: left;
+}
+
+.bawah {
+    width: 100%;
+    height: 30px;
+    background-color: black;
+    float: inline-end;
+}
+
+.multi {
+    width: 100%;
+    height: 200px;
+    float: left;
+}
+
+.kotak1 {
+    width: 30%;
+    height: 150px;
+    background-color: aquamarine;
+    float: left;
+}
+.kotak2 {
+    width: 30%;
+    height: 150px;
+    background-color: bisque;
+    float: left;
+}
+.kotak3 {
+    width: 30%; 
+    height: 150px;
+    background-color: aquamarine;
+    float: left;
+}
+.kotak4 {
+    width: 30%;
+    height: 150px;
+    background-color: bisque;
+    float: left;
+}
+
+    header {  
+        justify-content: space-between;
+        display: flex;
+    }
+
